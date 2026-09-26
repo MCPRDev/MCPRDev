@@ -231,9 +231,9 @@ I’m currently strengthening my knowledge in:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MCPRDev&show_icons=true&hide_border=true&rank_icon=github" />
+<img height="165" src="./profile/stats.svg" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCPRDev&layout=compact&hide_border=true" />
+<img height="165" src="./profile/top-langs.svg" />
 
 </div>
 
