@@ -231,9 +231,9 @@ I’m currently strengthening my knowledge in:
 
 <div align="center">
 
-<img height="165" src="./profile/stats.svg" />
+<img height="165" src="./profile/stats.svg?v=2" />
 
-<img height="165" src="./profile/top-langs.svg" />
+<img height="165" src="./profile/top-langs.svg?v=2" />
 
 </div>
 
